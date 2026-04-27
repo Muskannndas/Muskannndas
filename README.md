@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on associate software engineer
+- Java Full Stack Developer 
 - 📫 How to reach me through my mail or linkedin
 
 
